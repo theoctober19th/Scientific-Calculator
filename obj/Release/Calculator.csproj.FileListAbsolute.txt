@@ -1,0 +1,91 @@
+D:\Lab\Development Environment\C#\Calculator\Calculator\obj\Release\Calculator.csprojResolveAssemblyReference.cache
+D:\Lab\Development Environment\C#\Calculator\Calculator\obj\Release\Calculator.Form1.resources
+D:\Lab\Development Environment\C#\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+D:\Lab\Development Environment\C#\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+D:\Lab\Development Environment\C#\Calculator\Calculator\obj\Release\Calculator.exe
+D:\Lab\Development Environment\C#\Calculator\Calculator\obj\Release\Calculator.pdb
+D:\Lab\Development Environment\C#\Calculator\Calculator\bin\Release\Calculator.exe.config
+D:\Lab\Development Environment\C#\Calculator\Calculator\bin\Release\Calculator.exe.manifest
+D:\Lab\Development Environment\C#\Calculator\Calculator\bin\Release\Calculator.application
+D:\Lab\Development Environment\C#\Calculator\Calculator\bin\Release\Calculator.exe
+D:\Lab\Development Environment\C#\Calculator\Calculator\bin\Release\Calculator.pdb
+D:\Lab\Development Environment\C#\Calculator\Calculator\obj\Release\Calculator.exe.manifest
+D:\Lab\Development Environment\C#\Calculator\Calculator\obj\Release\Calculator.application
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\bin\Release\Calculator.exe.config
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\obj\Release\Calculator.exe
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\obj\Release\Calculator.pdb
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\bin\Release\Calculator.exe.manifest
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\bin\Release\Calculator.application
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\bin\Release\Calculator.exe
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\bin\Release\Calculator.pdb
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\obj\Release\Calculator.csprojResolveAssemblyReference.cache
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\obj\Release\Calculator.exe.manifest
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\obj\Release\Calculator.application
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\obj\Release\Calculator.calculator.resources
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\bin\Release\Microsoft.SqlServer.Types.dll
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\bin\Release\de\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\bin\Release\es\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\bin\Release\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\bin\Release\it\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\bin\Release\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\bin\Release\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\bin\Release\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\bin\Release\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\bin\Release\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Development Environment\C#\Projects\Calculator\Calculator\bin\Release\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\bin\Release\Calculator.exe.config
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\obj\Release\Calculator.exe
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\obj\Release\Calculator.pdb
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\obj\Release\Calculator.csprojResolveAssemblyReference.cache
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\obj\Release\Calculator.calculator.resources
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\bin\Release\Calculator.exe.manifest
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\bin\Release\Calculator.application
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\bin\Release\Calculator.exe
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\bin\Release\Calculator.pdb
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\bin\Release\Microsoft.SqlServer.Types.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\bin\Release\de\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\bin\Release\es\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\bin\Release\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\bin\Release\it\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\bin\Release\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\bin\Release\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\bin\Release\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\bin\Release\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\bin\Release\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\bin\Release\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\obj\Release\Calculator.exe.manifest
+D:\Lab\Coding Lab\C#\PT Labs\Calculator\Calculator\obj\Release\Calculator.application
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\bin\Release\Calculator.exe.config
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\obj\Release\Calculator.exe
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\obj\Release\Calculator.pdb
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\obj\Release\Calculator.csprojResolveAssemblyReference.cache
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\obj\Release\Calculator.calculator.resources
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\obj\Release\Calculator.Properties.Resources.resources
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\bin\Release\Calculator.exe.manifest
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\bin\Release\Calculator.application
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\bin\Release\Calculator.exe
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\bin\Release\Calculator.pdb
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\bin\Release\Microsoft.SqlServer.Types.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\bin\Release\de\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\bin\Release\es\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\bin\Release\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\bin\Release\it\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\bin\Release\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\bin\Release\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\bin\Release\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\bin\Release\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\bin\Release\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\bin\Release\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\obj\Release\Calculator.exe.manifest
+D:\Lab\Coding Lab\C#\PT Labs\Calculator(Lab Version)\Calculator\obj\Release\Calculator.application
+D:\Lab\Coding Lab\C#\PT Labs\Lab 3\Calculator(Lab Version)\Calculator\bin\Release\Calculator.exe.config
+D:\Lab\Coding Lab\C#\PT Labs\Lab 3\Calculator(Lab Version)\Calculator\obj\Release\Calculator.exe
+D:\Lab\Coding Lab\C#\PT Labs\Lab 3\Calculator(Lab Version)\Calculator\obj\Release\Calculator.pdb
